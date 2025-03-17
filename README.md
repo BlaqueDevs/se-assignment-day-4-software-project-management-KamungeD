@@ -27,9 +27,12 @@ Defining project scope prevents scope creep and keeps the team focused on the ke
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 
-Th benefits of a detailed project schedule include planning the whole project with projected timelines, tracking progress against a
+Th benefits of a detailed project schedule include planning the whole project with projected timelines, tracking progress against a set schedule, foreacasting for possible delivery issues and adjusting priorities based on available development time. A Gantt chart is a tool used to plan tasks against a schedule and keep track of delays and progress on time-sensitive projects.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+
+
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
