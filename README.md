@@ -3,7 +3,7 @@
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
 
-Timely delivery is important in order to save on resources and reduce the production cycle of osftware projects. Project managers should re-adjust the schedule and prioritize important milestones.
+Timely delivery is important in order to save on resources and reduce the production cycle of software projects. Project managers should re-adjust the schedule and prioritize important milestones.
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 
@@ -31,10 +31,24 @@ Th benefits of a detailed project schedule include planning the whole project wi
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
-
+Financial education and spending conditioning.
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+
+Clearly defining the problem that your software system intends to solve helps by keeping all team members on track, reducing scope creep by being able to clearly track progress towards the end goal and ensuring that the final product meets the requirements that were set at the beginning of development.
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+
+Personal financial tracker.
+
 ## 11. What are the main features or functionalities that make your software stand out?
+
+Automated spending tracking.
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+
+Very little data available.
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+
+Understanding market trends informs positioning and development by allowing predictions and estimations of future market demands and needs. This ensures the data is available to make sound development decisions.
